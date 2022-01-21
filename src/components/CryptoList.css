@@ -1,0 +1,22 @@
+.cryptoList{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+     
+      
+}   
+
+.cryptoList div{
+    width:400px;
+  height:200px; 
+  margin: 20px; 
+    background-color:rgb(210, 231, 17);
+    box-shadow: 1px 1px 5px black;
+    border-radius:10px;
+   
+} 
+.cryptoList div:hover{
+  box-shadow: 1px 1px 8px black;
+  cursor: pointer;
+} 
